@@ -1,0 +1,9 @@
+c:\users\pc_internet1\documents\visual studio 2015\Projects\CollectMoney\CollectMoney\bin\Debug\CollectMoney.exe.config
+c:\users\pc_internet1\documents\visual studio 2015\Projects\CollectMoney\CollectMoney\bin\Debug\CollectMoney.exe
+c:\users\pc_internet1\documents\visual studio 2015\Projects\CollectMoney\CollectMoney\bin\Debug\CollectMoney.pdb
+c:\users\pc_internet1\documents\visual studio 2015\Projects\CollectMoney\CollectMoney\obj\Debug\CollectMoney.csprojResolveAssemblyReference.cache
+c:\users\pc_internet1\documents\visual studio 2015\Projects\CollectMoney\CollectMoney\obj\Debug\CollectMoney.Form1.resources
+c:\users\pc_internet1\documents\visual studio 2015\Projects\CollectMoney\CollectMoney\obj\Debug\CollectMoney.Properties.Resources.resources
+c:\users\pc_internet1\documents\visual studio 2015\Projects\CollectMoney\CollectMoney\obj\Debug\CollectMoney.csproj.GenerateResource.Cache
+c:\users\pc_internet1\documents\visual studio 2015\Projects\CollectMoney\CollectMoney\obj\Debug\CollectMoney.exe
+c:\users\pc_internet1\documents\visual studio 2015\Projects\CollectMoney\CollectMoney\obj\Debug\CollectMoney.pdb
